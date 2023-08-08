@@ -1,0 +1,21 @@
+Package: libjpeg8
+Architecture: amd64
+Version: 8d1-2+1nomultiarch
+Multi-Arch: same
+Priority: optional
+Section: libs
+Maintainer: Bill Allombert <ballombe@debian.org>
+Installed-Size: 286
+Depends: libc6 (>= 2.14)
+Filename: dists/main/main/binary-amd64/libj/libjpeg8_8d1-2+nomultiarch_amd64.deb
+Size: 119272
+MD5sum: 1132291baa59d2b86f025981abecd122
+SHA1: 065b8878c5428a264d632d14a3761afd6d75876e
+SHA256: 1f6889a55fcc80a5d437a620ec758966703c546fcbb2544255ef9e6dba1d3b4a
+SHA512: 9c4a43b3dbc7eb4b2e75ca5d6db390796984be8bb42ecf04c22926e47bd9939e55d59eb7aaddc64a7e7b23e0889954b8cea6a3bac90f4dd9bf38c98918065aaa
+Description: Independent JPEG Group's JPEG runtime library
+ The Independent JPEG Group's JPEG library is a library for handling
+ JPEG files.
+ .
+ This package contains the shared library.
+
