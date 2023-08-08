@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://raw.githubusercontent.com/0wsmith/debmods/master/repo/
+Suites: main
+Components: main
+Architectures: amd64 i386
+Signed-By: /etc/apt/keyrings/github-0wsmith-debmods.key
