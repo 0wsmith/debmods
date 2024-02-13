@@ -19,3 +19,16 @@ Description: Independent JPEG Group's JPEG runtime library
  .
  This package contains the shared library.
 
+Package: noisetorch
+Architecture: amd64
+Version: 0.12.2
+Multi-Arch: same
+Maintainer: lawl
+Filename: dists/main/main/binary-amd64/n/noisetorch_0.12.2_amd64.deb
+Size: 3049008
+MD5sum: de3c73ee295b80ee6f31e95a622e2ef4
+SHA1: 3535768f0a3b8da9f7e0aeed23401bf201c3a21d
+SHA256: c8258840d6c1116c4a8189cb08555aeabe896782ac0333d183b1ba08b046beb6
+SHA512: 8ec5d7a9489ed75944e60e00b91795dd43051514eadc92560e6e4d2af789a6d1354b26befe3559056a34c146601ccdcf830b70e370a1ab78e2b73a6861bfd3f9
+Description: Real-time microphone noise suppression on Linux.
+
